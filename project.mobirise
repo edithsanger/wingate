@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-05-23_1043",
+    "name": "wingate",
     "currentPage": "index.html",
     "theme": {
       "name": "directm",
@@ -21,8 +21,12 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 26,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 64,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -32,7 +36,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -223,7 +228,7 @@
           },
           "title1": "Worldwide Media Marketing",
           "text1": "Get access to the top ten RTB networks<br><br>",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"mediamanagement.html\">Learn more</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont",
@@ -236,7 +241,7 @@
           },
           "title2": "Precise Targeting",
           "text2": "Data collection and research is at the core of our workflow",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"retargeting.html\">Learn more</a>",
           "media3": {
             "iconFont": {
               "active": true,
@@ -248,7 +253,7 @@
           },
           "title3": "Cutting Edge Technology",
           "text3": "Benefit from years of development and business intelligence",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"about.html\" target=\"_blank\">Learn more</a>",
           "media4": {
             "iconFont": {
               "active": true,
@@ -405,10 +410,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -455,7 +460,7 @@
           "_anchor": "menu1-7",
           "_params": {
             "bgColor": "#4d4d4d",
-            "fontSize": "0.8",
+            "fontSize": "0.85",
             "imageSize": "2.5",
             "fontName": {
               "name": "Arimo",
@@ -487,7 +492,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WINGATEMEDIA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" target=\"_blank\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mediamanagement.html\" target=\"_blank\">MEDIA MANAGEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emailmarketing.html\" target=\"_blank\">EMAIL MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retargeting.html\" target=\"_blank\">RETARGETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"affiliatemarketing.html\" target=\"_blank\">AFFILIATE MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contextualadvertising.html\" target=\"_blank\">CONTEXTUAL ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobileadvertising.html\" target=\"_blank\">MOBILE ADVERTISING</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SIGN UP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signuppublishers.html\" target=\"_blank\">PUBLISHERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signupdvertisers.html\" target=\"_blank\">ADVERTISERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
         },
         {
           "_tags": [
@@ -525,11 +530,11 @@
             "overlay": true,
             "overlayOpacity": 0.4,
             "overlayColor": "#000",
-            "rows": 10,
+            "rows": "1",
             "showIcons": true
           },
           "heading": "Copyright 2017, WingateMedia",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
+          "list1": "<p><a href=\"login.html\">Thank you</a><a href=\"http://mobirise.com\"></a></p>",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
@@ -539,7 +544,2486 @@
           "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
           "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
           "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "about.html": {
+      "settings": {
+        "title": "About",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#a69f9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#a69f9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#a69f9f",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#a69f9f"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#454545!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#a69f9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "12px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-q",
+          "_params": {
+            "bgColor": "#4d4d4d",
+            "fontSize": "0.85",
+            "imageSize": "2.5",
+            "fontName": {
+              "name": "Arimo",
+              "css": "'Arimo', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            "fontColor": "#a69f9f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WINGATEMEDIA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" target=\"_blank\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mediamanagement.html\" target=\"_blank\">MEDIA MANAGEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emailmarketing.html\" target=\"_blank\">EMAIL MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retargeting.html\" target=\"_blank\">RETARGETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"affiliatemarketing.html\" target=\"_blank\">AFFILIATE MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contextualadvertising.html\" target=\"_blank\">CONTEXTUAL ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobileadvertising.html\" target=\"_blank\">MOBILE ADVERTISING</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SIGN UP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signuppublishers.html\" target=\"_blank\">PUBLISHERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signupdvertisers.html\" target=\"_blank\">ADVERTISERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "subtitle1": "Awesome",
+          "subtitle2": "Awesome",
+          "subtitle3": "Awesome",
+          "subtitle4": "Awesome",
+          "subtitle5": "Awesome",
+          "subtitle6": "Awesome",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".features": {
+              "background": "#f6f7f8"
+            }
+          },
+          "_anchor": "features3-s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "featuresBg": "#f6f7f8",
+            "iconsBgColor": "@primaryColor",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": true,
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showFeaturesHeader": false,
+            "columns": "1",
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false
+          },
+          "title": "Features",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "header": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "communication-business",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "",
+              "size": 40,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title1": "Our Business Offering",
+          "text1": "Representing more than 10 years of experience working inside the Internet and advertising sector, Wingate Media offers an exceptional approach to marketing and advertising that is both cost efficient and effective. Our “insider” knowledge of the digital media sector, combined with our collaborative approach to multiple market media, enables Wingate Media to deliver superior, cost effective results to our clients.<br><br>With a collaborative approach to multiple market media, our services focus on people, processes and technology and ultimately ensure that our customers receive the most out of their marketing investment. We believe an effective ad campaign can be successful no matter the size of the canvas. This approach allows us to keep both our costs down and ensures an attractive advertising alternative to any client.<br><br>Using a combination of web technologies together with Wingate Media’s hands on approach, we provide our clients with large volumes of appropriate e-traffic, which is specifically tailored to meet the requirements of your brand as well as your desired target audience. Our campaigns will help you build positive brand association, increase interactions with your client, increase brand loyalty, increase connectivity with your targeted audience, as well as motivate potential clients to engage with your products or services and ultimately lead to an increase in conversions and tangible revenue for your organisation.<br>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 40,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title2": "Our Goal",
+          "text2": "Wingate Media’s goal is to help you build your brands exposure and optimize your brands awareness, with cost effective, strategically targeted, commercial viable advertising. We help you reach your desired target audience with the right data, at the right time and at the right place, using a variety of digital marketing mediums.<br><br>We provide our clients with access to worldwide advertising inventory and we continuously adapt to the rapidly evolving advertising ecosystem, to ensure our clients the best results available in the marketplace. We concentrate on all digital advertising channels from billboard displays to social media, to mobile advertising to email marketing, which is always obtainable to clients at competitive market prices.<br>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "pages",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "Unlimited Sites",
+          "text3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum reprehenderit omnis quis quaerat mollitia consequuntur fugiat nemo fuga, culpa, consequatur perferendis ipsam, aut, quam cum.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "shoping-cart",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "Trendy Website Blocks",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio quaerat corporis similique esse eius velit, officia consequuntur sequi voluptatum perspiciatis. Officiis quae beatae praesentium iure?",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "cash",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title5": "Host Anywhere",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo error voluptatibus possimus nobis quos minima pariatur aperiam, sunt commodi incidunt nam iusto ipsa distinctio ipsam!",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "unlock",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title6": "Bootstrap 4",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut officia reiciendis id enim hic harum voluptatem repellat incidunt soluta cum quia facere sed, ea illo.",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          },
+          "_anchor": "footer2-r",
+          "_params": {
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "rows": "1",
+            "showIcons": true
+          },
+          "heading": "Copyright 2017, WingateMedia",
+          "list1": "<p><a href=\"login.html\">Thank you</a><a href=\"http://mobirise.com\"></a></p>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "mediamanagement.html": {
+      "settings": {
+        "title": "mediamanagement",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#a69f9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#a69f9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#a69f9f",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#a69f9f"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#454545!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#a69f9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "12px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-t",
+          "_params": {
+            "bgColor": "#4d4d4d",
+            "fontSize": "0.85",
+            "imageSize": "2.5",
+            "fontName": {
+              "name": "Arimo",
+              "css": "'Arimo', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            "fontColor": "#a69f9f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WINGATEMEDIA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" target=\"_blank\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mediamanagement.html\" target=\"_blank\">MEDIA MANAGEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emailmarketing.html\" target=\"_blank\">EMAIL MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retargeting.html\" target=\"_blank\">RETARGETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"affiliatemarketing.html\" target=\"_blank\">AFFILIATE MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contextualadvertising.html\" target=\"_blank\">CONTEXTUAL ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobileadvertising.html\" target=\"_blank\">MOBILE ADVERTISING</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SIGN UP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signuppublishers.html\" target=\"_blank\">PUBLISHERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signupdvertisers.html\" target=\"_blank\">ADVERTISERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_styles": {
+            "H1": {
+              "color": "#434343",
+              "font-size": "48px",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#434343"
+            },
+            ".round-text": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-16",
+          "_params": {
+            "iconsBorder": true,
+            "iconsColor": "#434343",
+            "iconsNumber": "one",
+            "imageSize": "45",
+            "containerColor1": "#1cb4a9",
+            "containerColor2": "#bef50a",
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showIcons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "MobiriseIcons"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "MEDIA MARKETING",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text1": "Meeting marketing goals in today’s competitive, ever-changing environment has become increasingly challenging. Multiple options, increased costs, greater risks and smaller profit margins make the need for effective and efficient media advertising essential. Drawing from years of experience in technology, media and advertising, The Wingate Media Team empowers our clients to successfully navigate the digital advertising space and exponentially increase their market reach and influence.<br><br>Acquiring online advertising on a large scale requires not only methodology, but also knowledge of methods that work to deliver positive return on investment (ROI). It takes experience, know-how as well as a deep understanding of the digital advertising ecosystem, to figure out which impression to buy, at the appropriate price, and ultimately which impressions to avoid completely to ensure a successful marketing campaign. The Wingate Media Team will help you deliver the appropriate impressions to ensure the level of performance you desire.<br>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "timer",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          },
+          "_anchor": "footer2-u",
+          "_params": {
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "rows": "1",
+            "showIcons": true
+          },
+          "heading": "Copyright 2017, WingateMedia",
+          "list1": "<p><a href=\"login.html\">Thank you</a><a href=\"http://mobirise.com\"></a></p>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "retargeting.html": {
+      "settings": {
+        "title": "retargeting",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#a69f9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#a69f9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#a69f9f",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#a69f9f"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#454545!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#a69f9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "12px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-v",
+          "_params": {
+            "bgColor": "#4d4d4d",
+            "fontSize": "0.85",
+            "imageSize": "2.5",
+            "fontName": {
+              "name": "Arimo",
+              "css": "'Arimo', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            "fontColor": "#a69f9f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WINGATEMEDIA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" target=\"_blank\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mediamanagement.html\" target=\"_blank\">MEDIA MANAGEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emailmarketing.html\" target=\"_blank\">EMAIL MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retargeting.html\" target=\"_blank\">RETARGETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"affiliatemarketing.html\" target=\"_blank\">AFFILIATE MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contextualadvertising.html\" target=\"_blank\">CONTEXTUAL ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobileadvertising.html\" target=\"_blank\">MOBILE ADVERTISING</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SIGN UP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signuppublishers.html\" target=\"_blank\">PUBLISHERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signupdvertisers.html\" target=\"_blank\">ADVERTISERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_styles": {
+            "H1": {
+              "color": "#434343",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#434343"
+            },
+            ".round-text": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-18",
+          "_params": {
+            "iconsBorder": true,
+            "iconsColor": "#434343",
+            "iconsNumber": "one",
+            "imageSize": 50,
+            "containerColor1": "#2b4484",
+            "containerColor2": "#c48cce",
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showIcons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "MobiriseIcons"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Retargeting",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text1": "If you can promote your product long after a potential customer has visited your website, wouldn’t you jump at the chance? Well, Ad retargeting is exactly this, with a powerful internet marketing technique, that allows you to stay connected with your target audience, even after they leave your website, thereby enabling you to increase the number of leads and sales you are able to drive from all channels in your promotional mix.<br><br>This form of advertising can be incredibly successful and can dramatically increase your return of investment (ROI). By presenting your ads to visitors even as they browse other parts of the web, gains brand exposure and helps promote trust and ultimately drives a user to conclude a business transaction. Statistics prove that retargeted with display ads are 70 percent more likely to convert than traditional display advertising. Beyond vanilla display advertising, you are now able to retarget your marketing to other digital advertising channels such as search, email, and social media.<br><br>One is also able to achieve higher conversion rates, once you combine retargeting campaigns with additional marketing methods, such as specific retargeting with the use of demographics or other categories of market segmentation. Wingate Media has automated optimization tools that help build and tweak campaigns in order to maximize performance by controlling vital commercial aspects such as detailed audience segmentation, ad-spend and data analysis. Wingate Media uses targeting metrics and settings as well as account management and automated optimization tools that help build and optimize campaigns to maximize performance.<br><br>With years of experience and expertise, Wingate Media enables you to re-acquire lost customers, increase conversion rates, increase ROI, and reach the right audience, with the most relevant data, at the right time and at the right place in order to achieve a successful marketing campaign.<br>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "timer",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          },
+          "_anchor": "footer2-w",
+          "_params": {
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "rows": "1",
+            "showIcons": true
+          },
+          "heading": "Copyright 2017, WingateMedia",
+          "list1": "<p><a href=\"login.html\">Thank you</a><a href=\"http://mobirise.com\"></a></p>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "contextualadvertising.html": {
+      "settings": {
+        "title": "contextualadvertising",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#a69f9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#a69f9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#a69f9f",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#a69f9f"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#454545!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#a69f9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "12px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-z",
+          "_params": {
+            "bgColor": "#4d4d4d",
+            "fontSize": "0.85",
+            "imageSize": "2.5",
+            "fontName": {
+              "name": "Arimo",
+              "css": "'Arimo', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            "fontColor": "#a69f9f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WINGATEMEDIA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" target=\"_blank\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mediamanagement.html\" target=\"_blank\">MEDIA MANAGEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emailmarketing.html\" target=\"_blank\">EMAIL MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retargeting.html\" target=\"_blank\">RETARGETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"affiliatemarketing.html\" target=\"_blank\">AFFILIATE MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contextualadvertising.html\" target=\"_blank\">CONTEXTUAL ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobileadvertising.html\" target=\"_blank\">MOBILE ADVERTISING</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SIGN UP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signuppublishers.html\" target=\"_blank\">PUBLISHERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signupdvertisers.html\" target=\"_blank\">ADVERTISERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          },
+          "_anchor": "footer2-10",
+          "_params": {
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "rows": "1",
+            "showIcons": true
+          },
+          "heading": "Copyright 2017, WingateMedia",
+          "list1": "<p><a href=\"login.html\">Thank you</a><a href=\"http://mobirise.com\"></a></p>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        },
+        {
+          "_styles": {
+            "H1": {
+              "color": "#434343",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#434343"
+            },
+            ".round-text": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1a",
+          "_params": {
+            "iconsBorder": true,
+            "iconsColor": "#434343",
+            "iconsNumber": "one",
+            "imageSize": 50,
+            "containerColor1": "#bb412e",
+            "containerColor2": "#ede800",
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showIcons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1078.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "MobiriseIcons"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Contextual Advertising",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text1": "Contextual advertising campaigns place banners and links on webpages that have a contextual relationship to the product or service being sold. As one of the oldest forms of online advertising, contextual advertising has come a long way since the Web’s early days.<br><br>Bringing a brand, a product or a service to a potential client that is already searching for your offering, is the dream of any marketer. With over 10 years of experience and established relationships with the field’s leaders, Wingate Media has the knowledge and expertise to deliver at the forefront of this marketing segment. The methodology, infrastructure and strong relationships that Wingate Media has acquired over the years have enabled our clients’ to succeed in their contextual marketing objectives. We are able to significantly improve the likelihood of converting any visitor into a buyer and we achieve this by smartly targeting the visitors directly to the product or service that is being offered.<br>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "timer",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github."
+        }
+      ]
+    },
+    "mobileadvertising.html": {
+      "settings": {
+        "title": "mobileadvertising",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#a69f9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#a69f9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#a69f9f",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#a69f9f"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#454545!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#a69f9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "12px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-11",
+          "_params": {
+            "bgColor": "#4d4d4d",
+            "fontSize": "0.85",
+            "imageSize": "2.5",
+            "fontName": {
+              "name": "Arimo",
+              "css": "'Arimo', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            "fontColor": "#a69f9f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WINGATEMEDIA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" target=\"_blank\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mediamanagement.html\" target=\"_blank\">MEDIA MANAGEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emailmarketing.html\" target=\"_blank\">EMAIL MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retargeting.html\" target=\"_blank\">RETARGETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"affiliatemarketing.html\" target=\"_blank\">AFFILIATE MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contextualadvertising.html\" target=\"_blank\">CONTEXTUAL ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobileadvertising.html\" target=\"_blank\">MOBILE ADVERTISING</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SIGN UP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signuppublishers.html\" target=\"_blank\">PUBLISHERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signupdvertisers.html\" target=\"_blank\">ADVERTISERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_styles": {
+            "H1": {
+              "color": "#434343"
+            },
+            "P": {
+              "color": "#434343"
+            },
+            ".round-text": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1c",
+          "_params": {
+            "iconsBorder": true,
+            "iconsColor": "#434343",
+            "iconsNumber": "one",
+            "imageSize": 50,
+            "containerColor1": "#742282",
+            "containerColor2": "#dfd9ca",
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showIcons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "MobiriseIcons"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Mobile Avertising",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text1": "While the hype around mobile advertising is knocking at everyone’s door, only a few have the experience that will deliver the desired performance. Jumping into this world requires a deep understanding of mobile advertising. These essential skills have been acquired by the Wingate Media Team over the past 10 years of being actively entrenched within this mobile arena. Whatever the performance you desire, we have the appropriate partners and promotional know-how to successfully execute your mobile advertising campaign.<br><br>Whether you’re focused on performance advertising or building a brand, mobile advertising can be the perfect solution to reaching your objective. Research shows that almost 90% of people move between devices to complete a transaction, so reaching customers on-the-go is more important than ever before. So make a great impression by engaging with interactive, rich media display advertising on the mobile web or within mobile applications. You are able to target potential customers based on demographics, location, or mobile device.<br><br>With years of experience working with performance advertisers, we understand how to deliver results. Whether your goal is to drive quality downloads, create lifetime value for your application, or enhance advertising return of investment (ROI), Wingate Media has a targeted solution to help you meet your goal.<br>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "timer",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          },
+          "_anchor": "footer2-12",
+          "_params": {
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "rows": "1",
+            "showIcons": true
+          },
+          "heading": "Copyright 2017, WingateMedia",
+          "list1": "<p><a href=\"login.html\">Thank you</a><a href=\"http://mobirise.com\"></a></p>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "affiliatemarketing.html": {
+      "settings": {
+        "title": "affiliatemarketing",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#a69f9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#a69f9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#a69f9f",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#a69f9f"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#454545!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#a69f9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "12px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-13",
+          "_params": {
+            "bgColor": "#4d4d4d",
+            "fontSize": "0.85",
+            "imageSize": "2.5",
+            "fontName": {
+              "name": "Arimo",
+              "css": "'Arimo', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            "fontColor": "#a69f9f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WINGATEMEDIA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" target=\"_blank\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mediamanagement.html\" target=\"_blank\">MEDIA MANAGEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emailmarketing.html\" target=\"_blank\">EMAIL MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retargeting.html\" target=\"_blank\">RETARGETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"affiliatemarketing.html\" target=\"_blank\">AFFILIATE MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contextualadvertising.html\" target=\"_blank\">CONTEXTUAL ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobileadvertising.html\" target=\"_blank\">MOBILE ADVERTISING</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SIGN UP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signuppublishers.html\" target=\"_blank\">PUBLISHERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signupdvertisers.html\" target=\"_blank\">ADVERTISERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          },
+          "_anchor": "footer2-14",
+          "_params": {
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "rows": "1",
+            "showIcons": true
+          },
+          "heading": "Copyright 2017, WingateMedia",
+          "list1": "<p><a href=\"login.html\">Thank you</a><a href=\"http://mobirise.com\"></a></p>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        },
+        {
+          "_styles": {
+            "H1": {
+              "color": "#434343",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#434343"
+            },
+            ".round-text": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1b",
+          "_params": {
+            "iconsBorder": true,
+            "iconsColor": "#434343",
+            "iconsNumber": "one",
+            "imageSize": 50,
+            "containerColor1": "#1c5eb4",
+            "containerColor2": "#e00af5",
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showIcons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "MobiriseIcons"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Affiliate Marketing",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text1": "Affiliate marketing requires skills, relationship management, resources and a deep understanding of your affiliates’ needs in order to be effective. Wingate’s affiliate team has been nurturing its affiliate members for over 10 years and knows exactly how to deliver tangible positive results to our clients from our affiliate network.<br><br>Our affiliate relationships and affiliate program management expertise are the ultimate tools for taking your affiliate marketing revenues to the next level. You will benefit immensely from our strong partnerships with the top affiliates, which will equate to sustained revenue and increased results to your business.<br><br>Connect with consumers and drive more sales through Wingate Media’s affiliate marketing network. Whether it’s monetizing website traffic, driving more sales or finding more customers, we understand that our clients’ goals are our goals. We will deliver cost effective affiliate marketing that is critical for delivering results in today’s digital marketplace by combining our top advertisers and publishers with our Affiliate network.",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "timer",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github."
+        }
+      ]
+    },
+    "emailmarketing.html": {
+      "settings": {
+        "title": "emailmarketing",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#a69f9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#a69f9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#a69f9f",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#a69f9f"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#454545!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#a69f9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "12px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-x",
+          "_params": {
+            "bgColor": "#4d4d4d",
+            "fontSize": "0.85",
+            "imageSize": "2.5",
+            "fontName": {
+              "name": "Arimo",
+              "css": "'Arimo', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            "fontColor": "#a69f9f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WINGATEMEDIA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" target=\"_blank\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mediamanagement.html\" target=\"_blank\">MEDIA MANAGEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emailmarketing.html\" target=\"_blank\">EMAIL MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retargeting.html\" target=\"_blank\">RETARGETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"affiliatemarketing.html\" target=\"_blank\">AFFILIATE MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contextualadvertising.html\" target=\"_blank\">CONTEXTUAL ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobileadvertising.html\" target=\"_blank\">MOBILE ADVERTISING</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SIGN UP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signuppublishers.html\" target=\"_blank\">PUBLISHERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signupdvertisers.html\" target=\"_blank\">ADVERTISERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          },
+          "_anchor": "footer2-y",
+          "_params": {
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "rows": "1",
+            "showIcons": true
+          },
+          "heading": "Copyright 2017, WingateMedia",
+          "list1": "<p><a href=\"login.html\">Thank you</a><a href=\"http://mobirise.com\"></a></p>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        },
+        {
+          "_styles": {
+            "H1": {
+              "color": "#434343",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#434343"
+            },
+            ".round-text": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-19",
+          "_params": {
+            "iconsBorder": true,
+            "iconsColor": "#434343",
+            "iconsNumber": "one",
+            "imageSize": "40",
+            "containerColor1": "#bb8c2e",
+            "containerColor2": "#ffb6ab",
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showIcons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1630x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "MobiriseIcons"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Email Marketing",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text1": "The Wingate Media Team knows how to deliver promotions that stand out and get delivered directly to your clients’ inbox. Increasing email deliverability keeps your campaign out of the targets junk folder and helps provide the desired marketing campaigns objectives. With our feature rich, cost effective email delivery system, we help increase email performance and return on investment (ROI) which is vital for a promotions success. So use our services to find out how the Wingate Media email platform can connect you with new clients, markets and business opportunities. Generate new sales leads, increase your website traffic, increase conversions and help your business retain customers with efficient and effective email marketing campaigns.<br><br>Email marketing is one of the least costly marketing channels and thereby provides maximized ROI. The Wingate Media email marketing team is comprised of highly talented in-house specialists, who are dedicated to designing and deploying beautiful, easy to navigate, mobile-friendly emails. The team is guaranteed to deliver the required results, in your next email marketing campaign.<br>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "timer",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github."
+        }
+      ]
+    },
+    "signuppublishers.html": {
+      "settings": {
+        "title": "signuppublishers",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#a69f9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#a69f9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#a69f9f",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#a69f9f"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#454545!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#a69f9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "12px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-1k",
+          "_params": {
+            "bgColor": "#4d4d4d",
+            "fontSize": "0.85",
+            "imageSize": "2.5",
+            "fontName": {
+              "name": "Arimo",
+              "css": "'Arimo', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            "fontColor": "#a69f9f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WINGATEMEDIA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" target=\"_blank\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mediamanagement.html\" target=\"_blank\">MEDIA MANAGEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emailmarketing.html\" target=\"_blank\">EMAIL MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retargeting.html\" target=\"_blank\">RETARGETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"affiliatemarketing.html\" target=\"_blank\">AFFILIATE MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contextualadvertising.html\" target=\"_blank\">CONTEXTUAL ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobileadvertising.html\" target=\"_blank\">MOBILE ADVERTISING</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SIGN UP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signuppublishers.html\" target=\"_blank\">PUBLISHERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signupdvertisers.html\" target=\"_blank\">ADVERTISERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form": {
+              "background": "#fafbfc"
+            }
+          },
+          "_anchor": "form1-1l",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "formBg": "#fafbfc",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "formHeader": true
+          },
+          "title": "Publisers Sign Up",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
+          "header": "Fill out the sign up form for account set-up",
+          "form": {
+            "action": "admin@wingatemedia.com",
+            "alerts": {
+              "success": "Thanks for filling out form! Our support team will get in touch with you shortly."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Industry*"
+              }
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          },
+          "_anchor": "footer2-1m",
+          "_params": {
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "rows": "1",
+            "showIcons": true
+          },
+          "heading": "Copyright 2017, WingateMedia",
+          "list1": "<p><a href=\"login.html\">Thank you</a><a href=\"http://mobirise.com\"></a></p>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "signupdvertisers.html": {
+      "settings": {
+        "title": "signupadvertisers",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#a69f9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#a69f9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#a69f9f",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#a69f9f"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#454545!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#a69f9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "12px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-1d",
+          "_params": {
+            "bgColor": "#4d4d4d",
+            "fontSize": "0.85",
+            "imageSize": "2.5",
+            "fontName": {
+              "name": "Arimo",
+              "css": "'Arimo', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            "fontColor": "#a69f9f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WINGATEMEDIA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" target=\"_blank\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mediamanagement.html\" target=\"_blank\">MEDIA MANAGEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emailmarketing.html\" target=\"_blank\">EMAIL MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retargeting.html\" target=\"_blank\">RETARGETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"affiliatemarketing.html\" target=\"_blank\">AFFILIATE MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contextualadvertising.html\" target=\"_blank\">CONTEXTUAL ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobileadvertising.html\" target=\"_blank\">MOBILE ADVERTISING</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SIGN UP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signuppublishers.html\" target=\"_blank\">PUBLISHERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signupdvertisers.html\" target=\"_blank\">ADVERTISERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form": {
+              "background": "#fafbfc"
+            }
+          },
+          "_anchor": "form1-1j",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "formBg": "#fafbfc",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "formHeader": true
+          },
+          "title": "Advertisers Sign Up",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
+          "header": "Fill out the sign up form for account set-up",
+          "form": {
+            "action": "admin@wingatemedia.com",
+            "alerts": {
+              "success": "Thanks for filling out form! Our support team will get in touch with you shortly."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Industry*"
+              }
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          },
+          "_anchor": "footer2-1e",
+          "_params": {
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "rows": "1",
+            "showIcons": true
+          },
+          "heading": "Copyright 2017, WingateMedia",
+          "list1": "<p><a href=\"login.html\">Thank you</a><a href=\"http://mobirise.com\"></a></p>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "login.html": {
+      "settings": {
+        "title": "login",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#a69f9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#a69f9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#a69f9f",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#a69f9f"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#454545!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#4d4d4d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#a69f9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "12px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-1n",
+          "_params": {
+            "bgColor": "#4d4d4d",
+            "fontSize": "0.85",
+            "imageSize": "2.5",
+            "fontName": {
+              "name": "Arimo",
+              "css": "'Arimo', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            "fontColor": "#a69f9f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WINGATEMEDIA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" target=\"_blank\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mediamanagement.html\" target=\"_blank\">MEDIA MANAGEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emailmarketing.html\" target=\"_blank\">EMAIL MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retargeting.html\" target=\"_blank\">RETARGETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"affiliatemarketing.html\" target=\"_blank\">AFFILIATE MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contextualadvertising.html\" target=\"_blank\">CONTEXTUAL ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobileadvertising.html\" target=\"_blank\">MOBILE ADVERTISING</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SIGN UP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signuppublishers.html\" target=\"_blank\">PUBLISHERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signupdvertisers.html\" target=\"_blank\">ADVERTISERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          },
+          "_anchor": "footer2-1p",
+          "_params": {
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "rows": "1",
+            "showIcons": true
+          },
+          "heading": "Copyright 2017, WingateMedia",
+          "list1": "<p><a href=\"login.html\">Thank you</a><a href=\"http://mobirise.com\"></a></p>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     }
