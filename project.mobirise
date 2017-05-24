@@ -84,7 +84,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.4",
-            "overlayColor": "#000000",
+            "overlayColor": "#5c5c5c",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
@@ -281,7 +281,7 @@
             "paddingBottom": "1",
             "bgColor": "#eaeae3"
           },
-          "text": "Our clients:"
+          "text": "<b>Some of our clients:</b>"
         },
         {
           "_inherit": "gallery1",
@@ -291,7 +291,7 @@
           "_name": "gallery2",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "images": [
               {
                 "tags": "Awesome",
@@ -440,6 +440,11 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "12px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
@@ -523,7 +528,7 @@
             "rows": 10,
             "showIcons": true
           },
-          "heading": "Copyright 2016, Mobirise. License: <a href=\"http://mobirise.com\">EULA</a>",
+          "heading": "Copyright 2017, WingateMedia",
           "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
