@@ -1,6 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
-@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 
 
 
@@ -532,13 +532,18 @@ a:hover {
   vertical-align: middle;
 }
 #header2-d .heading-text {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 24px;
+  font-family: 'Arimo', sans-serif;
+  font-size: 20px;
   color: #eaeae3;
 }
 #header2-d .heading-title B {
   color: #eaeae3;
   font-family: 'Ubuntu', sans-serif;
+  font-size: 60px;
+}
+#header2-d .heading-title {
+  font-size: 48px;
+  color: #fffcf6;
 }
 #features20-8 .mbr-section-title,
 #features20-8 .mbr-section-subtitle,
